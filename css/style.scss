@@ -1246,6 +1246,14 @@ nav {
 	}
 }
 
+.socm {
+	display: flex;
+	gap: 10px;
+	img {
+		max-width: 40px;
+	}
+}
+
 .roadmap {
 	padding-top: 150px;
 	background: url("../img/roadmap2.webp") no-repeat center center;

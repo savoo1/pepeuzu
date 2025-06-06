@@ -83,6 +83,9 @@
   nav .onlymobile {
     display: block;
   }
+  nav .onlymobile .socm {
+    display: flex;
+  }
   nav .middle {
     position: relative;
     left: unset;
